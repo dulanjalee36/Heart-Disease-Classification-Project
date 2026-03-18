@@ -95,6 +95,15 @@ h3 {
 
 ## 🔄 Project Workflow
 
+## 📊 Model Evaluation
+
+### Accuracy Evaluation Graph
+![Accuracy Graph](<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/4c0e0706-6b30-4a6e-85e6-cc717e2dc232" />
+)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
 ```mermaid
 graph TD
 A[📂 Data Collection] --> B[🧹 Data Cleaning]
